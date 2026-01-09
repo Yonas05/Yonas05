@@ -1,6 +1,6 @@
 # Yonas Fayera Itana
 
-![Banner](https://drive.google.com/file/d/13JDuEtau7oOqXjnm9akXwTFpjCYtFIli/view?usp=sharing)
+![Banner](https://drive.google.com/file/d/13JDuEtau7oOqXjnm9akXwTFpjCYtFIli/view)
 
 ## Cloud Solution Architect | AWS • Infrastructure as Code • DevOps
 
