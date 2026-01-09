@@ -1,6 +1,6 @@
 # Yonas Fayera Itana
 
-![Banner](https://drive.google.com/file/d/13JDuEtau7oOqXjnm9akXwTFpjCYtFIli/view)
+![Banner](https://github.com/Yonas05/my-file/blob/main/linkedin-cover-default%20(2).png)
 
 ## Cloud Solution Architect | AWS • Infrastructure as Code • DevOps
 
