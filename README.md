@@ -1,5 +1,7 @@
 # Yonas Fayera Itana
 
+![Banner](https://drive.google.com/file/d/1Y9U6ECBOASpv7Mgz-XwS4E98LPD1_CIG/view?usp=sharing)
+
 ## Cloud Solution Architect | AWS • Infrastructure as Code • DevOps
 
 I am a Cloud Solution Architect focused on designing secure, scalable, and cost-efficient cloud solutions on AWS.  
